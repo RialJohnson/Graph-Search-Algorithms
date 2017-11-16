@@ -1,4 +1,5 @@
 # Graph-Search-Algorithms
+Lab #2 for CSCI 232 
 A program that searches graphs via Depth-first-search, Breadth-first-search, and finds a minimum spanning tree. 
 
 The program reads in a graph from two text files, one containing labels for the graph, one containing the data in the graph.
